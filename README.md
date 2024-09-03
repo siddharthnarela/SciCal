@@ -20,3 +20,4 @@ The Advanced Scientific Calculator is a console-based Java application that perf
    
    ```bash
    javac AdvancedScientificCalculator.java
+![Capture](https://github.com/user-attachments/assets/cf794a3e-8e68-4ae1-ac63-c19d7f98e1d6)
